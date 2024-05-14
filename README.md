@@ -1,1 +1,1 @@
-# Alzheimer-s-Medical-chatbot-using-LLM
+# Alzheimers-Medical-chatbot-using-LLM
