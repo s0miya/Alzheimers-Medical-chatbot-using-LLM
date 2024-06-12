@@ -1,9 +1,11 @@
 # Alzheimers-Medical-chatbot-using-LLM
 
-This repository delves into the workings of the Transformer architecture by building a Pre-Trained GPT-2 model in TensorFlow. It provides a step-by-step exploration of each Transformer component and how they collaborate to achieve text generation.
+This project involves the development of a medical chatbot designed to assist individuals with Alzheimer's disease and their caregivers. The chatbot utilizes a Large Language Model (LLM) based on GPT-2 to provide information, answer questions, and offer support related to Alzheimer's. The goal is to create a responsive and informative assistant that can help manage the daily challenges faced by those affected by Alzheimer's.
 
-# Key Features:
-
-- Interactive Learning: Gain a deeper understanding of the Transformer through its implementation.
-- GPT-2 Integration: Leverage the power of a pre-trained Transformer model.
-- Seq2Seq Application: Explore the Transformer's capabilities in a practical Alzheimer's disease chatbot scenario.
+# Tools and Technologies
+- Programming Language: Python
+- Data Handling: Pandas
+- Text Processing: Transformers (Hugging Face)
+- Modeling: PyTorch, TensorFlow
+- Model Evaluation: Scikit-learn
+- Visualization: Matplotlib
